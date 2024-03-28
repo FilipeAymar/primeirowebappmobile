@@ -54,6 +54,11 @@
       "type": "image/png"
     }
     {
+      "src": "assets/img/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+    {
       "src": "assets/img/1024.png",
       "sizes": "1024x1024",
       "type": "image/png"
@@ -61,6 +66,8 @@
   ],
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#31506F",
-  "theme_color": "#4D5360"
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "id": "PWAwebapp",
+  "description": "Meu primeiro webapp, criação desde o zero utilizando bootstrap"
 }
