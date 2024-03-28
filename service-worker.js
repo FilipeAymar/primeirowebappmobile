@@ -1,4 +1,4 @@
-var cacheName = 'pwaTeste+-v1.0';
+var cacheName = 'pwaWebApp';
 
 self.addEventListener('install', event => {
 
@@ -28,13 +28,12 @@ self.addEventListener('install', event => {
         './assets/img/114.png',
         './assets/img/120.png',
         './assets/img/180.png',
+        './assets/img/512.png',
         './assets/img/1024.png',
         './assets/img/assistencia.jpg',
         './assets/img/portrait_black.jpg',
         './assets/img/iconelogoapple.png',
         './assets/img/app-store-badge.png',
-        './assets/img/google-play-badge.png',
-        './assets/img/tnw-logo.png',
 
       ]))
   );
